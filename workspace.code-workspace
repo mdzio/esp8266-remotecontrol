@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "demo-server"
+		},
+		{
+			"path": "generate-layout-css"
+		},
+		{
+			"path": "webapp"
+		},
+		{
+			"path": "firmware"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}

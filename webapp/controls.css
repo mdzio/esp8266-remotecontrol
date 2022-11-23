@@ -1,0 +1,44 @@
+body {
+    color: black;
+    background-color: black;
+    font-size: 3.5vw;
+    margin: 0;
+    padding: 0; 
+    font-family: monospace;
+    font-weight: bold;
+    width: 100vw;
+    height: 100vh;
+}
+.panel {
+    border: 0;
+    border-radius: 7px;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 4px; bottom: 4px; left: 4px; right: 4px;
+    overflow: hidden;
+}
+.touch {
+    font-size: 18vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.info {
+    background-color: white;
+}
+.error {
+    background-color: red;
+}
+.throttleoff {
+    background-color: magenta;
+}
+.throttleon {
+    background-color: darkmagenta;
+}
+.steeringoff {
+    background-color: cyan;
+}
+.steeringon {
+    background-color: darkcyan;
+}
